@@ -45,7 +45,7 @@ class MainClass {
         Console.WriteLine("Unable to evaluate commission");
         break;
     }
-    Console.WriteLine("The End");
+    
 
  
   }
